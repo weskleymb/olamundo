@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace OlaMundo.Tads.Views
+namespace Ifrn.OlaMundo.Views
 {
 	public partial class MainPage : ContentPage
 	{

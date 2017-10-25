@@ -1,4 +1,4 @@
-﻿using OlaMundo.Tads.Views;
+﻿using Ifrn.OlaMundo.Views;
 using Xamarin.Forms;
 
 namespace OlaMundo
